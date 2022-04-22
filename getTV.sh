@@ -2,7 +2,7 @@
 
 # 筛选范围
 want_tv=(HK MO TW JP)
-blocklist=(blocked "GOOD TV CH")
+blocklist=(blocked "GOOD TV CH" 立法院)
 m3ulist=(hk.m3u mo.m3u tw.m3u jp.m3u)
 
 # 个人环境

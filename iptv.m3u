@@ -99,26 +99,6 @@ http://seb.sason.top/ptv/ftv.php?id=ms
 http://seb.sason.top/ptv/ftv.php?id=tw
 #EXTINF:-1 tvg-id="" tvg-country="TW" tvg-language="" tvg-logo="" group-title="Undefined",民視第一 (720p) [Not 24/7]
 http://seb.sason.top/ptv/ftv.php?id=dy
-#EXTINF:-1 tvg-id="" tvg-country="TW" tvg-language="" tvg-logo="" group-title="Undefined",立法院IVOD直播交通委員會 (450p)
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live6/hls-cl-tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="TW" tvg-language="" tvg-logo="" group-title="Undefined",立法院IVOD直播內政委員會 (450p)
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live7/hls-cl-tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="TW" tvg-language="" tvg-logo="" group-title="Undefined",立法院IVOD直播司法及法制委員會 (450p)
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live9/hls-cl-tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="TW" tvg-language="" tvg-logo="" group-title="Undefined",立法院IVOD直播外交及國防委員會 (450p)
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live8/hls-cl-tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="TW" tvg-language="" tvg-logo="" group-title="Undefined",立法院IVOD直播教育及文化委員會 (450p)
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live4/hls-cl-tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="TW" tvg-language="" tvg-logo="" group-title="Undefined",立法院IVOD直播朝野協商 (450p)
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live10/hls-cl-tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="TW" tvg-language="" tvg-logo="" group-title="Undefined",立法院IVOD直播社會福利及衛生環境委員會 (450p)
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live3/hls-cl-tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="TW" tvg-language="" tvg-logo="" group-title="Undefined",立法院IVOD直播經濟委員會 (450p)
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live5/hls-cl-tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="TW" tvg-language="" tvg-logo="" group-title="Undefined",立法院IVOD直播財政委員會 (450p)
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live2/hls-cl-tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="TW" tvg-language="" tvg-logo="" group-title="Undefined",立法院IVOD直播院會 (450p)
-https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live1/hls-cl-tv/index.m3u8
 #EXTINF:-1 tvg-id="NHKChineseVision.jp" tvg-country="JP" tvg-language="Chinese" tvg-logo="https://i.imgur.com/4yRulEZ.png" group-title="News",NHK Chinese Vision (720p)
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png" group-title="General",NHK General TV (540p) [Not 24/7]
